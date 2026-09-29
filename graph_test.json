@@ -1,0 +1,189 @@
+[
+  {
+    "chunk_id": "chunk_1",
+    "source_url": "https://nitte.edu.in/nmamit/",
+    "page_title": "Best Engineering College in Mangalore, Karnataka - NMAMIT",
+    "section": "PROGRAMS",
+    "department": null,
+    "entities": [
+      {
+        "name": "Undergraduate (B.Tech)",
+        "type": "Program"
+      },
+      {
+        "name": "Doctoral Programs",
+        "type": "Program"
+      },
+      {
+        "name": "Department of Basic Science & Humanities",
+        "type": "Department"
+      },
+      {
+        "name": "Artificial Intelligence & Data Science",
+        "type": "Program"
+      },
+      {
+        "name": "Artificial Intelligence & Machine Learning",
+        "type": "Program"
+      },
+      {
+        "name": "Civil Engineering",
+        "type": "Program"
+      },
+      {
+        "name": "Computer & Communication Engineering",
+        "type": "Program"
+      },
+      {
+        "name": "Computer Science & Engineering",
+        "type": "Program"
+      },
+      {
+        "name": "Computer Science & Engineering(Cyber Security)",
+        "type": "Program"
+      },
+      {
+        "name": "Electrical & Electronics Engineering",
+        "type": "Program"
+      },
+      {
+        "name": "Electronics & Communication Engineering",
+        "type": "Program"
+      },
+      {
+        "name": "Electronics Engineering (VLSI Design & Technology)",
+        "type": "Program"
+      },
+      {
+        "name": "Electronics & Communication (Advanced Communication Technology)",
+        "type": "Program"
+      },
+      {
+        "name": "Information Science & Engineering",
+        "type": "Program"
+      },
+      {
+        "name": "Mechanical Engineering",
+        "type": "Program"
+      },
+      {
+        "name": "Robotics & Artificial Intelligence",
+        "type": "Program"
+      },
+      {
+        "name": "Construction Technology",
+        "type": "Program"
+      },
+      {
+        "name": "Electric Vehicle Technology",
+        "type": "Program"
+      },
+      {
+        "name": "Structural Engineering",
+        "type": "Program"
+      },
+      {
+        "name": "VLSI Design and Embedded Systems",
+        "type": "Program"
+      }
+    ],
+    "relationships": []
+  },
+  {
+    "chunk_id": "chunk_2",
+    "source_url": "https://nitte.edu.in/nmamit/",
+    "page_title": "Best Engineering College in Mangalore, Karnataka - NMAMIT",
+    "section": "21 Aug 2026",
+    "department": null,
+    "entities": [
+      {
+        "name": "NMAM Institute of Technology",
+        "type": "Organization"
+      },
+      {
+        "name": "National Service Scheme (NSS) Unit",
+        "type": "Organization"
+      },
+      {
+        "name": "Rotary Club Nitte",
+        "type": "Organization"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "NMAM Institute of Technology",
+        "relation": "COLLABORATED_WITH",
+        "target": "National Service Scheme (NSS) Unit"
+      },
+      {
+        "source": "NMAM Institute of Technology",
+        "relation": "COLLABORATED_WITH",
+        "target": "Rotary Club Nitte"
+      }
+    ]
+  },
+  {
+    "chunk_id": "chunk_3",
+    "source_url": "https://nitte.edu.in/nmamit/",
+    "page_title": "Best Engineering College in Mangalore, Karnataka - NMAMIT",
+    "section": "18 Aug 2026",
+    "department": null,
+    "entities": [
+      {
+        "name": "NSS Unit",
+        "type": "Department"
+      },
+      {
+        "name": "NMAM Institute of Technology",
+        "type": "Organization"
+      },
+      {
+        "name": "National Pledge Against Drug Abuse",
+        "type": "Event"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "NSS Unit",
+        "relation": "PARTICIPATED_IN",
+        "target": "National Pledge Against Drug Abuse"
+      }
+    ]
+  },
+  {
+    "chunk_id": "chunk_4",
+    "source_url": "https://nitte.edu.in/nmamit/",
+    "page_title": "Best Engineering College in Mangalore, Karnataka - NMAMIT",
+    "section": "03 Jun 2026",
+    "department": null,
+    "entities": [
+      {
+        "name": "Nitte University",
+        "type": "Organization"
+      },
+      {
+        "name": "Yamagata Shimbun",
+        "type": "Organization"
+      },
+      {
+        "name": "Mangaluru, India",
+        "type": "Location"
+      }
+    ],
+    "relationships": []
+  },
+  {
+    "chunk_id": "chunk_5",
+    "source_url": "https://nitte.edu.in/nmamit/",
+    "page_title": "Best Engineering College in Mangalore, Karnataka - NMAMIT",
+    "section": "05 Mar 2026",
+    "department": null,
+    "entities": [
+      {
+        "name": "Techno-Cultural Fest",
+        "type": "Event"
+      }
+    ],
+    "relationships": []
+  }
+]
